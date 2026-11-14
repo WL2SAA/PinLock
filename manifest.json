@@ -1,0 +1,7 @@
+{
+  "name": "PinLock",
+  "description": "Lock Discord behind a PIN on launch and after leaving the app.",
+  "authors": [{ "name": "crescent.ai" }],
+  "main": "index.js",
+  "vendetta": { "icon": "ic_lock" }
+}
